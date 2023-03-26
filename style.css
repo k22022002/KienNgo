@@ -1,0 +1,21 @@
+.vertical-menu{
+    display: block;
+    width: auto;
+}
+.vertical-menu-item{
+    display: inline-block;
+    padding: 10px;
+}
+.vertical-menu-item:hover{
+    background-color: darkgreen;
+    
+}
+.nav-bar{
+    margin-bottom: 20px;
+    background-color: green;
+}
+.vertical-menu-item-button{
+    border: none;
+    background:none;
+    color: white;
+}
